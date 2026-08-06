@@ -1,6 +1,6 @@
-# Lektor AI - pilot na Wear OS
+# Lektor AI Watch - pilot zdalnego sterowania na Wear OS
 
-Sterownik do [Lektor AI](https://github.com/gangg111/Lektor_AI) na zegarek z Wear OS. Startuj i zatrzymuj renderowanie filmów z nadgarstka, bez wyciągania telefonu.
+Dla [Lektor AI](https://github.com/gangg111/Lektor_AI) na zegarek z Wear OS. Startuj i zatrzymuj renderowanie filmów z nadgarstka, bez wyciągania telefonu.
 
 Zegarek łączy się bezpośrednio z mostem HTTP w aplikacji na PC - zero pośredników, zero chmury. Wykrywa komputer sam (broadcast UDP + zamiatanie podsieci), paruje się 6-cyfrowym PIN-em i działa w tej samej sieci Wi-Fi. Poza domem przez tunel cloudflared (wymaga apki mobilnej jako przekaźnika).
 
